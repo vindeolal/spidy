@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1
+PyAudio==0.2.11
+python-vlc==3.0.101
+pafy==0.5.5
