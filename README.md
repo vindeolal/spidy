@@ -5,7 +5,7 @@
 
 > open website <website name>
 
-> play song (right now plays a hardcoded song from youtube)
+> play <video name> (will play the video from YouTube)
 
 
 ### To add new skills
