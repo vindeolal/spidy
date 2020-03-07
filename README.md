@@ -9,6 +9,6 @@
 
 
 ### To add new skills
-New skills can be added to `my_skills` dictionary. Key should be a string that will be present is the command you speek and value 
+New skills can be added to `my_skills` dictionary. Key should be a string that will be present is the command you speak and value 
 for each key must be an array of two element where first element is the response from spidy and second element is a python file
 which contains action for that command. File receives original command as its argument and will get executed for that command.
