@@ -3,9 +3,9 @@
 ### Existing skills
 > who are you
 
-> open website <website name>
+> open website "website name"
 
-> play <video name> (will play the video from YouTube)
+> play "video name" (will play the video from YouTube)
 
 
 ### To add new skills
